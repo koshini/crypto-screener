@@ -1,31 +1,31 @@
 #,Name,Symbol,Volume(24h),Price(USD),Price(BTC),% 7d,link
-1,Cyder,CYDER,1571150.00,$0.18 ,0.00001300,> 9999%,https://coinmarketcap.com/currencies/currencies/cyder/
-2,FAPcoin,FAP,357190.00,$0.03 ,0.00000191,1690.45%,https://coinmarketcap.com/currencies/currencies/fapcoin/
-3,Dollarcoin,DLC,220124.00,$0.34 ,0.00002545,1383.45%,https://coinmarketcap.com/currencies/currencies/dollarcoin/
-4,LiteCoin Ultra,LTCU,1081590.00,$0.71 ,0.00005257,560.18%,https://coinmarketcap.com/currencies/currencies/litecoin-ultra/
-5,RussiaCoin,RC,50017.00,$2.56 ,0.00019000,524.98%,https://coinmarketcap.com/currencies/currencies/russiacoin/
-6,Jetcoin,JET,79877.00,$0.85 ,0.00006306,483.91%,https://coinmarketcap.com/currencies/currencies/jetcoin/
-7,India Coin,INDIA,106565.00,$0.00 ,0.00000030,423.07%,https://coinmarketcap.com/currencies/currencies/india-coin/
-8,Bitvolt,VOLT,122578.00,$0.01 ,0.00000054,396.79%,https://coinmarketcap.com/currencies/currencies/bitvolt/
-9,Ethereum Cash,ECASH,330262.00,$0.24 ,0.00001798,387.98%,https://coinmarketcap.com/currencies/currencies/ethereumcash/
-10,Argentum,ARG,436922.00,$0.29 ,0.00002191,363.77%,https://coinmarketcap.com/currencies/currencies/argentum/
-11,Master Swiscoin,MSCN,241008.00,$0.01 ,0.00000089,340.05%,https://coinmarketcap.com/currencies/currencies/master-swiscoin/
-12,onG.social,ONG,60666.00,$2.28 ,0.00016933,332.11%,https://coinmarketcap.com/currencies/currencies/ongsocial/
-13,DFSCoin,DFS,194010.00,$0.17 ,0.00001298,307.40%,https://coinmarketcap.com/currencies/currencies/dfscoin/
-14,ProCurrency,PROC,342238.00,$0.10 ,0.00000750,294.31%,https://coinmarketcap.com/currencies/currencies/procurrency/
-15,SmartCash,SMART,3454470.00,$1.98 ,0.00014732,282.11%,https://coinmarketcap.com/currencies/currencies/smartcash/
-16,Ethereum Dark,ETHD,3821700.00,$1.56 ,0.00011553,279.23%,https://coinmarketcap.com/currencies/currencies/ethereum-dark/
-17,NEO GOLD,NEOG,296131.00,$0.05 ,0.00000336,278.98%,https://coinmarketcap.com/currencies/currencies/neo-gold/
-18,FuzzBalls,FUZZ,93274.00,$0.16 ,0.00001212,277.98%,https://coinmarketcap.com/currencies/currencies/fuzzballs/
-19,iEthereum,IETH,162065.00,$0.11 ,0.00000836,257.58%,https://coinmarketcap.com/currencies/currencies/iethereum/
-20,VIBE,VIBE,135198000.00,$1.68 ,0.00012464,237.94%,https://coinmarketcap.com/currencies/currencies/vibe/
-21,Aces,ACES,64211.00,$0.00 ,0.00000022,215.72%,https://coinmarketcap.com/currencies/currencies/aces/
-22,LIFE,LIFE,953144.00,$0.00 ,0.00000026,207.33%,https://coinmarketcap.com/currencies/currencies/life/
-23,Bitcoin Red,BTCRED,1055150.00,$0.22 ,0.00001640,206.98%,https://coinmarketcap.com/currencies/currencies/bitcoin-red/
-24,FUNCoin,FUNC,89426.00,$0.23 ,0.00001740,206.64%,https://coinmarketcap.com/currencies/currencies/funcoin/
-25,LiteCoin Gold,LTG,289921.00,$0.02 ,0.00000178,201.81%,https://coinmarketcap.com/currencies/currencies/litecoin-gold/
-26,AltCommunity Coin,ALTCOM,85662.00,$20.77 ,0.00154260,189.08%,https://coinmarketcap.com/currencies/currencies/altcommunity-coin/
-27,StrongHands,SHND,1168700.00,$0.00 ,0.00000000,185.21%,https://coinmarketcap.com/currencies/currencies/stronghands/
-28,Antimatter,ANTX,87815.00,$0.00 ,0.00000006,183.15%,https://coinmarketcap.com/currencies/currencies/antimatter/
-29,Protean,PRN,56263.00,$0.00 ,0.00000002,183.12%,https://coinmarketcap.com/currencies/currencies/protean/
-30,Bitcedi,BXC,80238.00,$0.05 ,0.00000349,180.39%,https://coinmarketcap.com/currencies/currencies/bitcedi/
+1,Cyder,CYDER,"$1,635,860",$0.169019,1.24e-05,> 9999%,https://coinmarketcap.com/currencies/currencies/cyder/
+2,FAPcoin,FAP,"$412,643",$0.031215,2.29007e-06,2128.51%,https://coinmarketcap.com/currencies/currencies/fapcoin/
+3,Dollarcoin,DLC,"$324,414",$0.218090,1.6e-05,856.29%,https://coinmarketcap.com/currencies/currencies/dollarcoin/
+4,Scorecoin,SCORE,"$59,716",$0.097161,7.12815e-06,526.99%,https://coinmarketcap.com/currencies/currencies/scorecoin/
+5,LiteCoin Ultra,LTCU,"$994,450",$0.658280,4.82943e-05,524.80%,https://coinmarketcap.com/currencies/currencies/litecoin-ultra/
+6,RussiaCoin,RC,"$51,108",$2.48,0.000182,503.75%,https://coinmarketcap.com/currencies/currencies/russiacoin/
+7,Ethereum Cash,ECASH,"$293,047",$0.277774,2.03787e-05,468.90%,https://coinmarketcap.com/currencies/currencies/ethereumcash/
+8,Bitvolt,VOLT,"$122,899",$0.007906,5.8e-07,422.25%,https://coinmarketcap.com/currencies/currencies/bitvolt/
+9,India Coin,INDIA,"$107,693",$0.003135,2.3e-07,349.25%,https://coinmarketcap.com/currencies/currencies/india-coin/
+10,iEthereum,IETH,"$132,100",$0.130266,9.55685e-06,294.30%,https://coinmarketcap.com/currencies/currencies/iethereum/
+11,Master Swiscoin,MSCN,"$258,995",$0.013247,9.71831e-07,293.48%,https://coinmarketcap.com/currencies/currencies/master-swiscoin/
+12,Slevin,SLEVIN,"$92,807",$0.008042,5.9e-07,285.68%,https://coinmarketcap.com/currencies/currencies/slevin/
+13,Ethereum Dark,ETHD,"$3,838,280",$1.59,0.000116683,281.67%,https://coinmarketcap.com/currencies/currencies/ethereum-dark/
+14,B3Coin,B3,"$513,960",$0.095823,7.03e-06,277.99%,https://coinmarketcap.com/currencies/currencies/b3coin/
+15,ProCurrency,PROC,"$288,159",$0.102230,7.5e-06,273.55%,https://coinmarketcap.com/currencies/currencies/procurrency/
+16,NEO GOLD,NEOG,"$231,831",$0.043699,3.20597e-06,241.60%,https://coinmarketcap.com/currencies/currencies/neo-gold/
+17,PureVidz,VIDZ,"$511,995",$0.041241,3.02564e-06,238.12%,https://coinmarketcap.com/currencies/currencies/purevidz/
+18,Argentum,ARG,"$207,766",$0.220653,1.61881e-05,230.43%,https://coinmarketcap.com/currencies/currencies/argentum/
+19,SmartCash,SMART,"$2,475,580",$1.71,0.000125417,224.27%,https://coinmarketcap.com/currencies/currencies/smartcash/
+20,FuzzBalls,FUZZ,"$81,829",$0.148555,1.08987e-05,220.91%,https://coinmarketcap.com/currencies/currencies/fuzzballs/
+21,LiteCoin Gold,LTG,"$235,757",$0.023817,1.74731e-06,210.84%,https://coinmarketcap.com/currencies/currencies/litecoin-gold/
+22,DFSCoin,DFS,"$182,787",$0.139068,1.02026e-05,203.25%,https://coinmarketcap.com/currencies/currencies/dfscoin/
+23,Aces,ACES,"$57,470",$0.003225,2.36615e-07,200.95%,https://coinmarketcap.com/currencies/currencies/aces/
+24,FUNCoin,FUNC,"$85,697",$0.229928,1.68685e-05,198.07%,https://coinmarketcap.com/currencies/currencies/funcoin/
+25,AltCommunity Coin,ALTCOM,"$85,415",$21.01,0.0015414,187.63%,https://coinmarketcap.com/currencies/currencies/altcommunity-coin/
+26,Antimatter,ANTX,"$109,878",$0.000818,6e-08,179.08%,https://coinmarketcap.com/currencies/currencies/antimatter/
+27,Bitcoin Scrypt,BTCS,"$107,596",$0.413280,3.032e-05,176.90%,https://coinmarketcap.com/currencies/currencies/bitcoin-scrypt/
+28,VIBE,VIBE,"$126,458,000",$1.35,9.87626e-05,172.20%,https://coinmarketcap.com/currencies/currencies/vibe/
+29,Safe Exchange Coin,SAFEX,"$272,904",$0.088271,6.47593e-06,170.80%,https://coinmarketcap.com/currencies/currencies/safe-exchange-coin/
+30,Coupecoin,COUPE,"$86,452",$0.000395,2.90091e-08,164.22%,https://coinmarketcap.com/currencies/currencies/coupecoin/
